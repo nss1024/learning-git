@@ -1,3 +1,3 @@
+package main 
 funct main ()
 
-funct test()
