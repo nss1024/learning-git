@@ -1,1 +1,3 @@
 funct main ()
+
+funct test()
